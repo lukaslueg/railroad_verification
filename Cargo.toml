@@ -2,6 +2,9 @@
 name = "railroad_verification"
 version = "0.1.0"
 authors = ["Lukas Lueg <lukas.lueg@gmail.com>"]
+license = "MIT"
+description = "Common verification against SVG11-DTD for `railroad`"
+repository = "https://github.com/lukaslueg/railroad-verification"
 
 [dependencies]
 tempfile = "3"
